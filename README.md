@@ -1,7 +1,13 @@
 TSHTabStripView
 ===============
 
-An iOS scrollable tab view inspired by the toptable application.
+An iOS scrollable or static tab view inspired by iOS 7 and the toptable application.
+
+#### Static Tab View
+![An example of a static tab view](http://i.imgur.com/ocE7d75.png)
+
+#### Scrolling Tab View
+![An example of a scrolling tab view](http://i.imgur.com/4FSHVaz.png)
 
 Sample Code
 ------------
