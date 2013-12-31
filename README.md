@@ -1,4 +1,4 @@
 TSHTabStripView
 ===============
 
-An iOS tab view inspired by the toptable app
+An iOS scrollable tab view inspired by the toptable application.
