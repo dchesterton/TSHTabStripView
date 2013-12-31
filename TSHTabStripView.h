@@ -45,6 +45,9 @@
 // add a tab
 - (void)addTab:(TSHTab *)tab;
 
+// add multiple tabs, array members should be TSHTab objects.
+- (void)addTabs:(NSArray *)tabs;
+
 // get the tab view object at the given index
 - (TSHTabView *)tabViewAtIndex:(NSUInteger)index;
 

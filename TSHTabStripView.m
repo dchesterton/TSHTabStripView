@@ -152,6 +152,13 @@
     [self layoutSubviews];
 }
 
+- (void)addTabs:(NSArray *)tabs
+{
+    for (TSHTab *tab in tabs) {
+        [self addTab:tab];
+    }
+}
+
 #pragma mark - Tab and Tab View Getters
 
 - (TSHTabView *)tabViewForTab:(TSHTab *)tab
